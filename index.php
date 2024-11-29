@@ -19,6 +19,7 @@
                 <li><a href="#">Beranda</a></li>
                 <li><a href="#">Tentang</a></li>
                 <li><a href="#">Kontak</a></li>
+                <li><a href="#">Pesan</a></li>
             </ul>
         </nav>
 
