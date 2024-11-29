@@ -26,6 +26,7 @@
         <!-- Konten Utama -->
         <main>
             <h2>Halo Dunia!</h2>
+            <h2>Halo Dunia2</h2>
             <p>Ini adalah contoh tampilan sederhana dengan PHP dan HTML.</p>
             <?php
                 echo "<p>Hari ini adalah: " . date("l, d F Y") . "</p>";
